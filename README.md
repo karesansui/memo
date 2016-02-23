@@ -1,3 +1,3 @@
-Hello,
+Dear Karesansui users,
 
-This is a test message for an experiment of new privilege funcion.
+This message is only for testing a new feature of GitHub user privilege.
